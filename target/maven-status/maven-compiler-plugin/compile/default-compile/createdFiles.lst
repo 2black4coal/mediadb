@@ -1,0 +1,13 @@
+com\project\DeviceManager.class
+com\media\controller\ObjectMapper.class
+com\media\DAO\MessageDAO.class
+com\media\controller\MessageController.class
+com\media\DAO\AccountDAO.class
+com\media\controller\Context.class
+com\media\controller\Javalin.class
+com\media\App.class
+com\media\model\Account.class
+com\media\model\Message.class
+com\media\service\MessageService.class
+com\media\controller\AccountController.class
+com\media\service\AccountService.class
